@@ -11,7 +11,7 @@ export class InfoService {
     const utcTime = moment().utc().format('YYYY-MM-DDTH:mm:ss[Z]');
 
     const githubFileUrl =
-      'https://github.com/SaintNBrown/InternshipProject1/tree/main/info';
+      'https://github.com/SaintNBrown/InternshipProject1/tree/main/src/info';
     const githubRepoUrl =
       'https://github.com/SaintNBrown/InternshipProject1.git';
 
